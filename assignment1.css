@@ -1,0 +1,208 @@
+.first {
+    display: flex;
+    margin-left: 120px;
+    margin-right: 80px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.first-one {
+    width: 50%;
+    margin-top: 70px;
+}
+
+.first-two {
+    width: 50%;
+    margin-left: 90px;
+    margin-top: 30px;
+}
+
+span {
+    color: orange;
+}
+
+#first-border {
+    border-left: 5px solid salmon;
+    padding: 5px;
+}
+
+.linkedin {
+    text-decoration-line: none;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 600;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+}
+
+#small {
+    margin-top: 30px;
+}
+
+#second-third-mid {
+    font-size: 35px;
+    text-align: center;
+}
+
+.box {
+    box-shadow: 10px 10px 40px gray;
+    width: 27%;
+    height: 280px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 10px;
+
+}
+
+#box-one {
+    background-color: ghostwhite;
+}
+
+#box-one img {
+    height: 100px;
+    width: 100px;
+}
+
+#box-two {
+    background-color: antiquewhite;
+}
+
+#box-two img {
+    height: 100px;
+    width: 100px;
+}
+
+#box-three {
+    background-color: bisque;
+}
+
+#box-three img {
+    height: 100px;
+    width: 100px;
+}
+
+.second {
+    display: flex;
+    margin-left: 10%;
+
+}
+
+.goal {
+    margin-left: 10px;
+    text-align: justify;
+}
+
+.mission {
+    margin-left: 10px;
+    text-align: justify;
+}
+
+.vission {
+    margin-left: 10px;
+    text-align: justify;
+}
+
+.third {
+    display: flex;
+    margin-top: 50px;
+}
+
+.third-one {
+    width: 30%;
+    margin-left: 130px;
+}
+
+.third-one img {
+    width: 100%;
+}
+
+.third-two {
+    width: 50%;
+    margin-left: 50px;
+    margin-right: 100px;
+}
+
+#hhhh {
+    font-size: 30px;
+}
+
+.instagram {
+    text-decoration-line: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    border-radius: 5px;
+    font-weight: 600px;
+}
+
+.four {
+    display: flex;
+    margin-top: 70px;
+}
+
+.four-one {
+    width: 45%;
+    margin-left: 130px;
+    text-align: justify;
+    margin-right: 50px;
+}
+
+.four-two {
+    width: 30%;
+    margin-right: 80px;
+
+}
+
+.four-two img {
+    width: 100%;
+}
+
+.tmblr {
+    text-decoration: none;
+    font-weight: 600px;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+}
+
+.five {
+    display: flex;
+    padding-top: 50px;
+}
+
+.five-one {
+    width: 50%;
+    padding-left: 130px;
+    padding-top: 50px;
+}
+
+.five-two {
+    width: 50%;
+}
+
+.five-two img {
+    width: 70%;
+}
+
+.rony {
+    text-decoration-line: none;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+}
+
+footer {
+    text-align: center;
+    padding-top: 30px;
+    background-color: black;
+    color: white;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
